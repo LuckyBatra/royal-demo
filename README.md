@@ -1,2 +1,2 @@
 # royal-demo
-Demo for Web Development and Designing Course
+Demo for Web Development and Designing Course.
